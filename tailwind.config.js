@@ -19,13 +19,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#0a0a0a',
-        accent: '#B809C3',
+        primary: '#800031a2',
+        accent: '#1d41c5',
       },
       backgroundImage: {
-        site: "url('./assets/site-bg.jpg')",
-        about: "url('./assets/about.png')",
-        services: "url('./assets/services.png')",
+        about: "url('./assets/Yazici-removebg-preview.png')",
+        services: "url('./assets/IMG_1579-removebg-preview.png')",
       },
     },
   },
